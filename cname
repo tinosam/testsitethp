@@ -1,1 +1,8 @@
-thptesttinosam.surge.sh
+surge :thptesttinosam.surge.sh
+git pages :https://tinosam.github.io/testsitethp/
+raw :https://rawgit.com/tinosam/testsitethp/master/index.html
+
+
+
+
+ <link rel="stylesheet" href="demo.css" type="text/css">
